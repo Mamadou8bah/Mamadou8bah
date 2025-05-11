@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-- 👨‍💻 Languages: Java (Primary), Python (ML), JavaScript (Basic)
+- 👨‍💻 Languages: Java (Primary), Python (ML), JavaScript 
 - ⚙️ Frameworks & Tools: Spring Boot, MySQL, Git, GitHub, Postman, IntelliJ, VS Code
 - 🌐 Web & APIs: REST APIs, Node.js, Express.js, npm
 
