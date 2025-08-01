@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mamadou8bah&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamadou8bah&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamadou8bah&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamadou8bah&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
