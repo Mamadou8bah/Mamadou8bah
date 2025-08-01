@@ -69,7 +69,6 @@ A robust backend service for a job and talent matchmaking platform. It supports 
 
 ### 🎬 Movietron Frontend  
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
 🔗 **[View Repository →](https://github.com/Mamadou8bah/Movietron-frontend)**  
 
 A sleek, user-friendly movie discovery UI that interacts with a custom backend API. Features dynamic routing, responsive design, and real-time movie search.
