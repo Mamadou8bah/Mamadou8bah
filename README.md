@@ -50,45 +50,69 @@
 
 ## 💼 Featured Projects
 
-### 🛠️ SkillMatch-Backend  
-🔗 [View Repo](https://github.com/Mamadou8bah/SkillMatch-Backend)  
-Spring Boot service that connects candidates and companies via skill-based matchmaking.
+### 🛠️ SkillMatch Backend  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) 
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+🔗 **[View Repository →](https://github.com/Mamadou8bah/SkillMatch-Backend)**  
 
-> `Spring Boot` • `JWT Auth` • `REST API` • `MySQL` • `Docker`
+A robust backend service for a job and talent matchmaking platform. It supports employer/jobseeker registration, job postings, and skill-based matching with full authentication and role management.
+
+
+📊 **Key Features**:
+- Skill-based matchmaking engine
+- Role-based access for admins, jobseekers, and employers
+- Secure JWT-based authentication
+- Docker-ready backend
 
 ---
 
-### 📰 BlogAPI  
-🔗 [View Repo](https://github.com/Mamadou8bah/BlogAPI)  
-Robust blog API with JWT security, user roles, and post/comment features.
+### 🎬 Movietron Frontend  
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+🔗 **[View Repository →](https://github.com/Mamadou8bah/Movietron-frontend)**  
 
-> `Spring Security` • `JPA/Hibernate` • `Role-based Access` • `RESTful API`
+A sleek, user-friendly movie discovery UI that interacts with a custom backend API. Features dynamic routing, responsive design, and real-time movie search.
 
----
 
-### 🎬 Movietron-frontend  
-🔗 [View Repo](https://github.com/Mamadou8bah/Movietron-frontend)  
-Frontend UI for movie browsing paired with a custom backend.
-
-> `React` • `TMDb API` • `Responsive UI`
+🎥 **Key Features**:
+- Dynamic movie browsing
+- Real-time search with pagination
+- Intuitive UX design using Tailwind CSS
+- Seamless backend integration
 
 ---
 
 ### 🤝 Find-a-Hand  
-🔗 [View Repo](https://github.com/Mamadou8bah/Find-a-Hand)  
-Volunteer-matching platform connecting helpers with those in need, supporting geo-location matching and notifications.
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+🔗 **[View Repository →](https://github.com/Mamadou8bah/Find-a-Hand)**  
 
-> `Spring Boot` • `REST API` • `MySQL` • `JWT Authentication` • `Geo-location Matching` • `Notification System`
+A location-based platform designed to connect people who need assistance with nearby volunteers and handymen. Built for real-world deployment and tailored for local communities.
+
+
+
+🌍 **Key Features**:
+- Location-based service matching
+- Real-time request system
+- Email notification alerts
+- Built with scalability and local relevance in mind
+
+---
+
+> ✨ Want to collaborate or learn more about these projects? Reach out via [LinkedIn](https://www.linkedin.com/in/mamadou-bah-821543249/) or explore more on my GitHub!
+
 
 ---
 
 ## 🎯 2025 Goals
 
-✅ Master microservices with Spring Cloud  
-✅ Deploy full-stack apps using Docker & Kubernetes  
+✅ Master Spring boot and Spring Security
+✅ Deploy full-stack apps  
 📚 Learn cloud computing (AWS or GCP)  
 🧠 Dive into ML & AI with Python *(In progress)*  
-🔥 Launch **Find-a-Hand** MVP by Q4
+
 
 ---
 
