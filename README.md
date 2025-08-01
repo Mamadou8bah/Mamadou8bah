@@ -77,7 +77,7 @@ A sleek, user-friendly movie discovery UI that interacts with a custom backend A
 🎥 **Key Features**:
 - Dynamic movie browsing
 - Real-time search with pagination
-- Intuitive UX design using Tailwind CSS
+- Intuitive UX design 
 - Seamless backend integration
 
 ---
