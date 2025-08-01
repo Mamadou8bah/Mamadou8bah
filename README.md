@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Backend Developer | Java & Spring Boot Enthusiast | API Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B96F&center=true&vCenter=true&width=500&lines=Spring+Boot+%2F+Java+Backend+Engineer;Real-world+Problem+Solver+%F0%9F%94%A5;Security+%7C+Scalability+%7C+Clean+Architecture;React+when+needed+%7C+Backend+by+choice;Building+for+Gambia+%26+the+world" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B96F&center=true&vCenter=true&width=650&lines=Spring+Boot+%2F+Java+Backend+Engineer;Real-world+Problem+Solver+%F0%9F%94%A5;Security+%7C+Scalability+%7C+Clean+Code;React+when+needed+%7C+Backend+by+choice;Building+for+Gambia+and+Beyond" alt="Typing SVG" />
 </p>
 
 ---
