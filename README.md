@@ -67,20 +67,6 @@ A robust backend service for a job and talent matchmaking platform. It supports 
 
 
 
-###  Movietron Frontend  
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
-🔗 **[View Repository →](https://github.com/Mamadou8bah/Movietron-frontend)**  
-
-A sleek, user-friendly movie discovery UI that interacts with a custom backend API. Features dynamic routing, responsive design, and real-time movie search.
-
-
- **Key Features**:
-- Dynamic movie browsing
-- Real-time search with pagination
-- Intuitive UX design 
-- Seamless backend integration
-
-
 
 ###  Find-a-Hand  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) 
@@ -94,8 +80,6 @@ A location-based platform designed to connect people who need assistance with ne
 
  **Key Features**:
 - Location-based service matching
-- Real-time request system
-- Email notification alerts
 - Built with scalability and local relevance in mind
 
 
@@ -110,7 +94,7 @@ A location-based platform designed to connect people who need assistance with ne
 ✅ Master Spring boot and Spring Security
 ✅ Deploy full-stack apps  
 📚 Learn cloud computing (AWS or GCP)  
-🧠 Dive into ML & AI with Python *(In progress)*  
+
 
 
 
