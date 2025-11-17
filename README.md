@@ -1,128 +1,136 @@
 <!-- README.md -->
 
-<h1 align="center">Hi , I'm Mamadou Bah</h1>
-<h3 align="center"> Backend Developer | Java & Spring Boot Enthusiast | API Architect</h3>
+<h1 align="center">Hi, I'm <span style="color:#00b96f;">Mamadou Bah</span></h1>
+<h3 align="center"> Backend Developer | Java & Spring Boot Specialist | API Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B96F&center=true&vCenter=true&width=650&lines=Spring+Boot+%2F+Java+Backend+Engineer;Real-world+Problem+Solver+%F0%9F%94%A5;Security+%7C+Scalability+%7C+Clean+Code;React+when+needed+%7C+Backend+by+choice;Building+for+Gambia+and+Beyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B96F&center=true&vCenter=true&width=750&lines=Java+%26+Spring+Boot+Backend+Engineer;Distributed+Systems+%7C+API+Architecture;Security+%26+Scalability+Oriented;Building+for+Africa+%26+the+World;Precision+%7C+Clean+Code+%7C+Real+Impact" alt="Typing SVG" />
 </p>
 
 
+---
 
-##  Tech Stack
+## 🚀 **Tech Stack**
+
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />&nbsp;
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />&nbsp;
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />&nbsp;
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />&nbsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3CB371?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
 
-
-##  Skills Progress
+## 📊 **Skills Progress**
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-85%25-brightgreen" />&nbsp;
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-80%25-brightgreen" />&nbsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-75%25-yellow" />&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-60%25-yellow" />&nbsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-65%25-orange" />
+  <img src="https://img.shields.io/badge/Java-90%25-00b96f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-85%25-00b96f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-75%25-ffaa00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-ffaa00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-65%25-ffaa00?style=for-the-badge" />
 </p>
 
+---
 
-
-##  My GitHub Activity
+## 📈 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamadou8bah&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamadou8bah&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamadou8bah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamadou8bah&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamadou8bah&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mamadou8bah&theme=react&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mamadou8bah&theme=matrix&row=1&column=6" />
 </p>
 
+---
+
+# ⭐ **Featured Projects**
 
 
-##  Featured Projects
+### 🔹 **SkillMatch Backend**  
+[![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3CB371?style=flat&logo=springboot&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)]()
 
-###  SkillMatch Backend  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) 
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 🔗 **[View Repository →](https://github.com/Mamadou8bah/SkillMatch-Backend)**  
 
-A robust backend service for a job and talent matchmaking platform. It supports employer/jobseeker registration, job postings, and skill-based matching with full authentication and role management.
+A production-grade backend powering a job and talent matchmaking platform with advanced role management and secure authentication.
+
+**Key Features**
+- Smart skill-based matching algorithm  
+- Role-based access control for admins, jobseekers & employers  
+- Secure JWT authentication & refresh tokens  
+- Fully Docker-containerized for deployment  
 
 
- **Key Features**:
-- Skill-based matchmaking engine
-- Role-based access for admins, jobseekers, and employers
-- Secure JWT-based authentication
-- Docker-ready backend
+---
 
+### 🔹 **Find-a-Hand**
 
+[![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=339933)]()
+[![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=flat&logo=mongodb&logoColor=4EA94B)]()
 
-
-###  Find-a-Hand  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 🔗 **[View Repository →](https://github.com/Mamadou8bah/Find-a-Hand)**  
 
-A location-based platform designed to connect people who need assistance with nearby volunteers and handymen. Built for real-world deployment and tailored for local communities.
+Location-based platform connecting users with nearby volunteers and handymen. Designed for real-world rollout and optimized for local communities.
+
+**Key Features**
+- Real-time location-based service matching  
+- Lightweight architecture built for scalability  
+- Clean RESTful API design  
 
 
+---
 
- **Key Features**:
-- Location-based service matching
-- Built with scalability and local relevance in mind
+## 🎯 **2025 Engineering Goals**
 
-
-
-> ✨ Want to collaborate or learn more about these projects? Reach out via [LinkedIn](https://www.linkedin.com/in/mamadou-bah-821543249/) or explore more on my GitHub!
-
-
+- ✔ Master Spring Security & advanced Spring Boot patterns  
+- ✔ Deploy multiple production-ready systems  
+- ✔ Build cloud skills (AWS / GCP)  
+- ✔ Strengthen distributed systems & containerization  
 
 
-##  2025 Goals
+---
 
-✅ Master Spring boot and Spring Security
-✅ Deploy full-stack apps  
-📚 Learn cloud computing (AWS or GCP)  
-
-
-
-
-##  What I'm working on right now
+## 🔧 **What I'm Building Right Now**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamadou8bah&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-##  Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mamadou-bah-821543249/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:mbah18791@email.com" title="Email"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Mamadou8bah" target="_blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-   <a href="https://x.com/MrMamadouBah?t=8bt8djr0e0Qzsw0sLmAlRw&s=09" target="_blank" title="X / Twitter"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamadou8bah&theme=high-contrast&area=true&hide_border=true" />
 </p>
 
 ---
 
-##  Visitors Count
+## 📬 **Connect With Me**
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mamadou8bah.Mamadou8bah" alt="Visitor Count" />
+  <a href="https://www.linkedin.com/in/mamadou-bah-821543249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mbah18791@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Mamadou8bah"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://x.com/MrMamadouBah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" /></a>
+</p>
+
+
+---
+
+## 👀 **Visitors**
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mamadou8bah.Mamadou8bah" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </p>
