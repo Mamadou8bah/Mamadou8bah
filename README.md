@@ -23,11 +23,11 @@
 
 ---
 
-## ⚙️ Tech Stack (Backend-First)
+##  Tech Stack 
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,mysql,nodejs,express,docker,git,linux"
+    src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,mysql,nodejs,express,docker,git,linux,angular,react,tailwindcss"
     height="62"
   />
 </p>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 What I Actually Do
+##  What I Actually Do
 
 <p align="center">
   <img
