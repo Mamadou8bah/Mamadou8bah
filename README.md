@@ -99,8 +99,6 @@
   />
 </p>
 
-_No random stacks. No trend-chasing._
-
 ---
 
 ## 📊 GitHub Activity 
