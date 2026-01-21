@@ -85,8 +85,6 @@
 - MongoDB modeling for flexibility  
 - Designed for real communities  
 
-<b>Built for impact, not hype.</b>
-
 </td>
 </tr>
 </table>
