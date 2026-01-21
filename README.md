@@ -38,7 +38,7 @@
 
 ---
 
-##  What I Actually Do
+##  What I  Do
 
 <p align="center">
   <img
