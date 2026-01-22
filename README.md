@@ -70,7 +70,6 @@
 - Clean, layered architecture  
 - Production-ready Docker setup  
 
-<b>Built as a real backend system — not a CRUD exercise.</b>
 
 </td>
 <td width="50%" valign="top">
