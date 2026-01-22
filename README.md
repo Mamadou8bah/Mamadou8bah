@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Featured Systems
+##  Featured Systems
 
 <table align="center" width="100%">
 <tr>
