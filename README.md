@@ -90,7 +90,7 @@
 
 ---
 
-## 🧩 Currently Sharpening
+## Currently Sharpening
 
 <p align="center">
   <img
