@@ -50,8 +50,6 @@
 - **Data Modeling** — SQL & NoSQL with performance in mind  
 - **Containerization** — Dockerized, deployment-ready services  
 
----
-
 ##  Featured Systems
 
 <table align="center" width="100%">
