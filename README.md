@@ -84,7 +84,6 @@
 </tr>
 </table>
 
----
 
 ## Currently Sharpening
 
