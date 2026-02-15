@@ -96,6 +96,12 @@
 ---
 
 ## 📊 GitHub Activity 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mamadou8bah&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"
+    width="60%"
+  />
+</p>
 
 <p align="center">
   <img
