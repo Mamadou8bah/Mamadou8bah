@@ -36,7 +36,7 @@
 
 
 
-##  What I  Do
+ What I  Do
 
 <p align="center">
   <img
