@@ -139,8 +139,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <b>Engineering backend systems that are designed to last.</b>
 </p
