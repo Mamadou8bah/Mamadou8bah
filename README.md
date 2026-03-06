@@ -56,9 +56,9 @@
 <td width="50%" valign="top">
 
 ### <img src="https://skillicons.dev/icons?i=java,spring,docker" height="22"/> SkillMatch  
-**Talent Platform Backend**
+**Job Search Platform**
 
-🔗 https://github.com/Mamadou8bah/SkillMatch-Backend  
+🔗 https://github.com/Mamadou8bah/SkillMatch
 
 - Role-based access (Admin / Employer / Jobseeker)  
 - JWT auth + refresh tokens  
